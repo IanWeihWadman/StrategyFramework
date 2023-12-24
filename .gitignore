@@ -26,6 +26,15 @@
 *.a
 *.lib
 
+# Visual studio stuff
+*.tlog
+*.ipch
+*.log
+*.user
+
+.vs/
+x64/
+
 # Executables
 *.exe
 *.out
